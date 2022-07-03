@@ -14,6 +14,7 @@ public class openGoogle02 {
 		driver.get("https://www.google.com/");
 		Thread.sleep(5000);
 		driver.close();	
+		//Comment 1
 		}
 
 }
